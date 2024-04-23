@@ -34,7 +34,7 @@ const Experts = () => {
                 // autoPlay={true}
                 responsive={responsive}
                 className="container mx-auto mt-24">
-                <div className="bg-[#FFF7E2] rounded-[40px] w-10/12 h-[400px] mx-auto shadow text-center">
+                <div className="bg-[#FFF7E2] rounded-[40px] w-10/12 h-[470px] mx-auto shadow text-center">
                     <div className="mt-6 p-6">
                         <div className="rounded-full mx-auto w-32 h-32">
                             <img className="rounded-full w-32 h-32 absolute" src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
@@ -45,18 +45,18 @@ const Experts = () => {
                                 </div>
                             </button>
                         </div>
-                        <h1 className="text-xl font-bold mt-6">Dr. Vaishali sharma</h1>
+                        <h1 className="text-xl font-bold mt-14">Dr. Vaishali sharma</h1>
                         <p className="mt-2 text-[#414141] w-80 mx-auto">Ayurveda Practitioner (BAMS, MD)</p>
                         <h2 className="flex justify-center items-center mt-2 font-medium"><img className="me-2" src="/icons/gra.png" alt="" />25 years of experience</h2>
                         <h2 className="flex justify-center items-center bg2 w-40 mx-auto rounded-3xl p-2 mt-3 text-[#3A643B]"><img className="me-2" src="/icons/cap.png" alt="" />Skin Specialist</h2>
                     </div>
-                    <div className="bg-[#3A643B] p-4 rounded-b-[40px] relative bottom-0">
+                    <div className="bg-[#3A643B] p-4 rounded-b-[40px] relative -bottom-9">
                         <Link to='/booking'>
                             <button className="text-white font-semibold">Book a session</button>
                         </Link>
                     </div>
                 </div>
-                <div className="bg-[#FFF7E2] rounded-[40px] w-10/12 h-[400px] mx-auto shadow text-center">
+                <div className="bg-[#FFF7E2] rounded-[40px] w-10/12 h-[470px] mx-auto shadow text-center">
                     <div className="mt-6 p-6">
                         <div className="rounded-full mx-auto w-32 h-32">
                             <img className="rounded-full w-32 h-32 absolute" src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
@@ -67,18 +67,18 @@ const Experts = () => {
                                 </div>
                             </button>
                         </div>
-                        <h1 className="text-xl font-bold mt-6">Dr. Vaishali sharma</h1>
+                        <h1 className="text-xl font-bold mt-14">Dr. Vaishali sharma</h1>
                         <p className="mt-2 text-[#414141] w-80 mx-auto">Ayurveda Practitioner (BAMS, MD)</p>
                         <h2 className="flex justify-center items-center mt-2 font-medium"><img className="me-2" src="/icons/gra.png" alt="" />25 years of experience</h2>
                         <h2 className="flex justify-center items-center bg2 w-40 mx-auto rounded-3xl p-2 mt-3 text-[#3A643B]"><img className="me-2" src="/icons/cap.png" alt="" />Skin Specialist</h2>
                     </div>
-                    <div className="bg-[#3A643B] p-4 rounded-b-[40px] relative bottom-0">
+                    <div className="bg-[#3A643B] p-4 rounded-b-[40px] relative -bottom-9">
                         <Link to='/booking'>
                             <button className="text-white font-semibold">Book a session</button>
                         </Link>
                     </div>
                 </div>
-                <div className="bg-[#FFF7E2] rounded-[40px] w-10/12 h-[400px] mx-auto shadow text-center">
+                <div className="bg-[#FFF7E2] rounded-[40px] w-10/12 h-[470px] mx-auto shadow text-center">
                     <div className="mt-6 p-6">
                         <div className="rounded-full mx-auto w-32 h-32">
                             <img className="rounded-full w-32 h-32 absolute" src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
@@ -89,12 +89,12 @@ const Experts = () => {
                                 </div>
                             </button>
                         </div>
-                        <h1 className="text-xl font-bold mt-6">Dr. Vaishali sharma</h1>
+                        <h1 className="text-xl font-bold mt-14">Dr. Vaishali sharma</h1>
                         <p className="mt-2 text-[#414141] w-80 mx-auto">Ayurveda Practitioner (BAMS, MD)</p>
                         <h2 className="flex justify-center items-center mt-2 font-medium"><img className="me-2" src="/icons/gra.png" alt="" />25 years of experience</h2>
                         <h2 className="flex justify-center items-center bg2 w-40 mx-auto rounded-3xl p-2 mt-3 text-[#3A643B]"><img className="me-2" src="/icons/cap.png" alt="" />Skin Specialist</h2>
                     </div>
-                    <div className="bg-[#3A643B] p-4 rounded-b-[40px] relative bottom-0">
+                    <div className="bg-[#3A643B] p-4 rounded-b-[40px] relative -bottom-9">
                         <Link to='/booking'>
                             <button className="text-white font-semibold">Book a session</button>
                         </Link>
