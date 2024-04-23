@@ -9,7 +9,7 @@ const FirstContent = () => {
                     <br /> a totally effective approach for a better life.</p>
             </div>
             <div className="mt-10 lg:mt-24">
-                <div className="lg:absolute left-[42%] -bottom-[140%]">
+                <div className="lg:absolute left-[42%] -bottom-[100%]">
                     <img className="w-80 mx-auto" src="/images/First-content.png" alt="" />
                 </div>
 
