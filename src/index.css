@@ -20,8 +20,15 @@
     background: linear-gradient(90.17deg, rgba(18, 18, 18, 0.88) 1.03%, rgba(18, 18, 18, 0.92) 44.18%, rgba(1, 1, 1, 0) 95.15%);
 }
 
-.bg2{
+.bg2 {
     background: rgba(58, 100, 59, 0.12);
 }
 
 
+.hero-image {
+    background-image: url("../public/images/FindBanner.jpg");
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
